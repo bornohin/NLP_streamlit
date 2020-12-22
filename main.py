@@ -5,6 +5,12 @@
 import streamlit as st 
 import os
 
+# Import NLTK
+import nltk
+nltk.download('wordnet')
+nltk.download('punkt')
+nltk.download('all-corpora')
+
 # NLTK utils
 import nltk_download_utils
 
