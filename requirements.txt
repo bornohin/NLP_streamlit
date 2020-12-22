@@ -83,7 +83,7 @@ streamlit==0.73.0
 sumy==0.8.1
 terminado==0.9.1
 testpath==0.4.4
-textblob
+-e git://github.com/sloria/TextBlob.git#egg=TextBlob
 thinc==7.4.5
 toml==0.10.2
 toolz==0.11.1
