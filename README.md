@@ -1,2 +1,3 @@
-# NLP_streamlit
-NLP with streamlit
+# Project Natural lanuage Processing (NLP)
+This project is a ands-on deployment of NLP with streamlit as a web app. 
+This mimics basic NLP tasks like Tokenization, NER, Sentiment Analysis and Text Summarization.
